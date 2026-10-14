@@ -1,4 +1,4 @@
-# Research Style Writer (RSW)
+# Research Paper Generator
 
 A Generative AI system that produces human-like academic research papers with near-zero AI detection scores. It learns writing style from reference papers, grounds content in live web sources, and applies a multi-pass humanization pipeline to eliminate detectable AI patterns.
 
